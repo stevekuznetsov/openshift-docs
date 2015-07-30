@@ -28,7 +28,7 @@ defining the desired template's location in the *_master-config.yaml_* file:
 .Example New Project Template
 ====
 ----
-apiVersion: v1beta3
+apiVersion: v1
 kind: Template
 metadata:
   name: project-request
